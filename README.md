@@ -1,2 +1,2 @@
 # Finnemm
-Finnemm est JDR papier de genre fantasy
+Finnemm est un JDR papier de genre fantasy
